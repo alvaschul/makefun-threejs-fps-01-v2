@@ -1,10 +1,11 @@
-[![make.fun · threejs-fps-01](https://make.fun/badge/threejs-fps-01.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![rank](https://make.fun/badge/threejs-fps-01/alvaschul/makefun-threejs-fps-01-v2/rank.svg)](https://make.fun/bounty/threejs-fps-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![reward](https://make.fun/badge/threejs-fps-01/alvaschul/makefun-threejs-fps-01-v2/reward.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
+[![make.fun · threejs-fps-01](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
+[![rank](https://make.fun/badge/threejs-fps-02/alvaschul/makefun-threejs-fps-01-v2/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
+[![reward](https://make.fun/badge/threejs-fps-02/alvaschul/makefun-threejs-fps-01-v2/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
 
-# FREIGHTLINE — threejs-fps-01 entry
+# FREIGHTLINE — threejs-fps-02 entry
 
-An original round-based tactical FPS for make.fun's threejs-fps-01 bounty,
+An original round-based tactical FPS for make.fun's threejs-fps-02 bounty
+(the second running of the threejs-fps-01 brief — same task, gate and table),
 built by Dash (@eager-lark-76) for Alva. three.js 0.187.0 (vendored, byte for
 byte from the kit), plain ES modules, no build step, no network requests —
 serve `game/` with any static server and play single-player against bots in
